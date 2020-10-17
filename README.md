@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Supratim Samanta and I'm a software developer/DevOps engineer. I'm from India, living in New Jersey and currently working at Comcast via TCS. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Supratim Samanta and I'm a software developer/DevOps engineer. I'm from India, living in New Jersey and currently working at Comcast. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x1f4c8; GitHub Stats
 
