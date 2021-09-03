@@ -6,7 +6,7 @@ My name is Supratim Samanta and I'm a full stack software developer/DevOps engin
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/susamn/susamn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susamn&hide=makefile,emacs lisp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susamn&hide=makefile,emacs lisp,css" />
 </a>
 <a href="https://github.com/susamn/susamn">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=susamn" />
