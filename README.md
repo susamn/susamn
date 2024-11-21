@@ -3,14 +3,7 @@
 
 My name is Supratim Samanta and I'm a full stack software developer/DevOps engineer and an AWS Certified Developer. I'm from India, living in New Jersey and currently working at Fannie Mae. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/susamn/susamn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susamn&hide=makefile,emacs lisp,css" />
-</a>
-<a href="https://github.com/susamn/susamn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=susamn" />
-</a>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
