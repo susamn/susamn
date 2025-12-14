@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Supratim Samanta and I'm a full stack software developer/DevOps engineer and an AWS Certified Developer. I'm from India, living in New Jersey and currently working at Fannie Mae. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Supratim Samanta. I love building stuff and tinkering with everything. I am a senior engineer having 14 years of industry experience. I dont always follow conventional ways to solve problems, and by following that, I learn new things. 
 
 
 
